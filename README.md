@@ -1,16 +1,26 @@
 # Dmitri Shchukin
 
-Data Analyst | Future Full-Stack Developer | ML Learner
+**Data Analyst | SQL | Python | Power BI**
+
+I am building a practical portfolio focused on data analysis, business intelligence, and future software projects.
 
 [Portfolio Website](https://dimom73.github.io/Portfolio/)
 
 ---
 
-## Focus Areas
+## Current Focus
 
 - Data Analysis
-- SQL
-- Power BI
+- SQL queries and reporting
+- Python data analysis
+- Power BI dashboards
+- Business insights from data
+
+---
+
+## Future Directions
+
 - Full-Stack Development
-- Game Development
 - Machine Learning
+- Game Development
+- Automation tools
