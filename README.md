@@ -1,26 +1,50 @@
-# Dmitri Shchukin
+# Hi, I'm Dmitri Shchukin
 
-**Data Analyst | SQL | Python | Power BI**
+**Junior Data Analyst | SQL | Python | Power BI | Excel**
 
-I am building a practical portfolio focused on data analysis, business intelligence, and future software projects.
+I am building a practical portfolio focused on data analysis, business intelligence, dashboards, reporting, and business-oriented insights.
 
-[Portfolio Website](https://dimom73.github.io/Portfolio/)
-
----
+My goal is to turn raw data into clear analysis, useful visualizations, and practical recommendations.
 
 ## Current Focus
 
-- Data Analysis
-- SQL queries and reporting
+- SQL analysis and reporting
 - Python data analysis
 - Power BI dashboards
-- Business insights from data
+- Excel-based analysis
+- Business-oriented data projects
+- End-to-end analytical case studies
 
----
+## Tools & Technologies
 
-## Future Directions
+- SQL
+- Python
+- pandas
+- Power BI
+- Excel
+- HTML
+- CSS
+- GitHub Pages
 
-- Full-Stack Development
-- Machine Learning
-- Game Development
-- Automation tools
+## Portfolio
+
+You can view my portfolio here:
+
+https://dimom73.github.io/Portfolio/
+
+## Additional Interests
+
+In addition to data analysis, I am also interested in:
+
+- Web tools
+- Automation
+- Creative coding
+- Game development experiments
+
+## Contact
+
+Email:  
+dimashukin7@gmail.com
+
+LinkedIn:  
+https://www.linkedin.com/in/dmitrishchukin/
