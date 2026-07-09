@@ -15,17 +15,6 @@ My goal is to turn raw data into clear analysis, useful visualizations, and prac
 - Business-oriented data projects
 - End-to-end analytical case studies
 
-## Tools & Technologies
-
-- SQL
-- Python
-- pandas
-- Power BI
-- Excel
-- HTML
-- CSS
-- GitHub Pages
-
 ## Additional Interests
 
 In addition to data analysis, I am also interested in:
