@@ -26,12 +26,6 @@ My goal is to turn raw data into clear analysis, useful visualizations, and prac
 - CSS
 - GitHub Pages
 
-## Portfolio
-
-You can view my portfolio here:
-
-https://dimom73.github.io/Portfolio/
-
 ## Additional Interests
 
 In addition to data analysis, I am also interested in:
@@ -40,6 +34,12 @@ In addition to data analysis, I am also interested in:
 - Automation
 - Creative coding
 - Game development experiments
+
+## Portfolio
+
+You can view my portfolio here:
+
+https://dimom73.github.io/Portfolio/
 
 ## Contact
 
